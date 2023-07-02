@@ -4,7 +4,7 @@
 
 `$sudo apt update`
 <br/>
-`$sudo apt install nodejs`
+`$sudo apt install node js`
 <br/>
 `$sudo apt install npm`
 <br/>
